@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "748099660438",
+    "firebase_url": "https://sqlplayground-a93a2-default-rtdb.firebaseio.com",
+    "project_id": "sqlplayground-a93a2",
+    "storage_bucket": "sqlplayground-a93a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748099660438:android:544fc9c3134bcf6d5df0b7",
+        "android_client_info": {
+          "package_name": "com.example.new_sql_playground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjC_piVJUAmHDVUYdPCdHz9VhHvxEfOww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

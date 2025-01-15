@@ -1,0 +1,17 @@
+const becomeText = 'assets/images/become_text.png';
+const buttonBg = 'assets/images/button_bg.png';
+const challangeButton = 'assets/images/challange.png';
+const createIcon = 'assets/images/create icon.png';
+const feachersText = 'assets/images/feachers.png';
+const freeToUse = 'assets/images/free_to_use_text.png';
+const learnIcon = 'assets/images/learn_icon.png';
+const loginIcon = 'assets/images/login.png';
+const LoginToContinue = 'assets/images/Logintocontinue_text.png';
+const logo = 'assets/images/logo.png';
+const modeSwitch = 'assets/images/mode_swich.png';
+const practiceIcon = 'assets/images/practice_icon.png';
+const quizIcon = 'assets/images/quiz_icon.png';
+const runButton = 'assets/images/run_button.png';
+const welcomeBack = 'assets/images/wecomeBack.png';
+const signinIcon = 'assets/images/signin.png';
+// const loginphoto = 'aseets/login_photo.png';
